@@ -6,7 +6,7 @@ The emissions of carbon dioxide, methane, nitrous oxide, hydro-fluorocarbons, pe
 
 Additional data downloaded from https://climateknowledgeportal.worldbank.org/download-data. This data contains the timeseries ERA5(reanalysis) average annual temperature of the UK from 1950 -2020.
 
-I will analyse the data using both PowerBI and Python to identify trends in the Greenhouse gas emissions within the UK. I will attempt tp answer the following questions:
+I will analyse the data using PowerBI to identify trends in the Greenhouse gas emissions within the UK. I will attempt to answer the following questions:
 1. Which industries listed in the data are the biggest contributors to greenhouse gas emissions?
 2. Within the the biggest contributors what subcategories are contributing the most greenhouse gases?
 3. Are there any unusual or unexpected contributors to greenhouse gas emissions?
